@@ -1,1 +1,1 @@
-# DecisionTreeFromScratch
+# MachineLearningFromScratch
